@@ -102,3 +102,6 @@ Marks will be awarded as follows:
 
 ## Submitting
 **Please ensure that you complete your work in the repository created for you by GitHub Classroom.** To submit, all you need to do is to ensure that you push your code to the repository on GitHub. On the submission date, the most recent commit in the GitHub repository will be treated as your submission. It is not necessary to submit code on Moodle or via email. 
+
+
+Grade: 84%
